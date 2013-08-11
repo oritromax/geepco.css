@@ -1,0 +1,6 @@
+.spacer { height: 20px; } 
+
+.navbar { position: fixed;
+         width: 80%;
+		 z-index: 999999;
+		 } 
